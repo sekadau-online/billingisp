@@ -168,13 +168,13 @@ Pelanggan tidak perlu ingat tanggal perpanjangan:
 ## 🌟 Testimoni
 
 > *"Sejak pakai Lybaz, CS saya bisa fokus jualan. Pelanggan bisa cek sendiri, bayar sendiri, perpanjang sendiri. Efisiensi naik 80%!"*  
-> — **Agus, ISP Sekadau**
+> — **Agus**
 
 > *"Auto-renewal feature is a game changer! Churn rate turun drastis karena pelanggan otomatis perpanjang sebelum habis masa aktif."*  
-> — **Budi, ISP Pontianak**
+> — **Budi**
 
 > *"WhatsApp broadcast untuk promo sangat powerful. Conversion rate naik 3x lipat dibanding email atau SMS!"*  
-> — **Rina, ISP Sintang**
+> — **Rina**
 
 ---
 
@@ -191,7 +191,7 @@ Sistem billing yang menghemat waktu, meningkatkan pendapatan, dan membuat pelang
 ### 📞 Butuh Bantuan?
 
 Tim support kami siap membantu Anda:
-- 📱 WhatsApp: +62 8xx-xxxx-xxxx
+- 📱 WhatsApp: +62 898-0564-999
 - 📧 Email: support@lybaz.net
 - 📖 Dokumentasi: docs.lybaz.net
 
@@ -204,6 +204,6 @@ Tim support kami siap membantu Anda:
 **Lybaz Billing System v2**  
 *Billing ISP yang Mudah, Cepat, dan Otomatis*
 
-**[Dokumentasi](https://docs.lybaz.net)** • **[Repository](https://github.com/sekadau-online/billingisp)** • **[Support](https://wa.me/628xxxxxxxxxx)**
+**[Dokumentasi](https://docs.lybaz.net)** • **[Repository](https://github.com/sekadau-online/billingisp)** • **[Support](https://wa.me/628980564999)**
 
 </div>
